@@ -1,0 +1,25 @@
+header {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.primary-heading {
+  color: black;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  padding: 0 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+  text-decoration: none;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,46 @@
+section {
+  background-color: white;
+  height: 40rem;
+  width: 80rem;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-text {
+  background-color: red;
+  height: 100%;
+  width: 50%;
+  color: whitesmoke;
+  padding: 6rem;
+  display: flex;
+  justify-content: flex-start;
+  gap: 2rem;
+  flex-direction: column;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+}
+
+.cta-hero {
+  background-color: white;
+  padding: 1rem 2rem;
+  width: 20%;
+  border-radius: 0.5rem;
+  color: black;
+  text-decoration: none;
+}
+
+.hero-action {
+  color: black;
+  height: 100%;
+  width: 50%;
+  padding: 6rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  flex-direction: column;
+}
